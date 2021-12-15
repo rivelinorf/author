@@ -4,3 +4,11 @@ server:
 spring:
     application:
         name: author-api
+
+management:
+    endpoints:
+        health:
+            show-details: always
+        web:
+            exposure:
+                include: '*'
