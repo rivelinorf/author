@@ -1,2 +1,2 @@
 # author
-Microservice used for studies with feign client and actuator 
+Example microservice with integration using feign client and actuator
